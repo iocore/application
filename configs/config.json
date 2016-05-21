@@ -1,0 +1,5 @@
+{
+  "dependencies": [
+    "iocore/core/modules/body-parser"
+  ]
+}
