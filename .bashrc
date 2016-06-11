@@ -1,1 +1,1 @@
-export NODE_PATH=$NODE_PATH:./node_modules
+export NODE_PATH=$NODE_PATH:./src/

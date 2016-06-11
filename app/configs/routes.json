@@ -1,0 +1,14 @@
+{
+    "extends": [
+        "routes_main",
+        "/modules/shop/configs/routes"
+    ],
+    "routes": {
+        "application_home": {
+            "path": "/",
+            "pathRegex": "/shop/(?P<itemId>\\d+).html",
+            "methods": ["GET"],
+            "module": "/modules/shop:IndexController:index"
+        }
+    }
+}

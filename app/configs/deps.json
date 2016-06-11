@@ -1,0 +1,6 @@
+{
+  "dependencies": [
+    "iocore/bundles/body-parser",
+    "bundles/shop"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+    "routes": {
+        "application_home": {
+            "path": "/foo",
+            "pathRegex": false,
+            "methods": ["GET"],
+            "module": ":IndexController:index"
+        }
+    }
+}
